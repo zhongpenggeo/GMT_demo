@@ -1,0 +1,6 @@
+81.926	32.047		2.679	18.727	1.55	1.43	0	XGBA	Kreemer	et	al.	[2014]	from	Ader	et	al.	[2012]
+83.953	29.178		5.163	24.7	1.59	1.13	0	MST2	Kreemer	et	al.	[2014]	from	Ader	et	al.	[2012]
+84.043	29.534		9.076	25.132	0.68	0.53	0	YARE	Kreemer	et	al.	[2014]	from	Ader	et	al.	[2012]
+85.057	30.729		9.627	21.628	0.59	0.5	0	JRGR	Kreemer	et	al.	[2014]	from	Ader	et	al.	[2012]
+86.904	30.445		14.057	22.063	0.59	0.52	0	CUOM	Kreemer	et	al.	[2014]	from	Ader	et	al.	[2012]
+86.94	28.357		11.434	26.052	0.54	0.45	0	ZHXZ	Kreemer	et	al.	[2014]	from	Ader	et	al.	[2012]
