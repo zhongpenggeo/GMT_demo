@@ -5,7 +5,7 @@
 4. 另一方面，我个人的数据管理比较混乱，之前写过的很多GMT脚本都丢失了，导致后期经常要重写，因此利用GitHub作为一个GMT脚本的积累，也不失为一个好办法
 5. 大概是我特别喜欢分享//炫耀吧。
 
-[简书GMT制图专题](https://www.jianshu.com/c/1cc3a57914f9)
-[知乎专栏--GMT绘图经验](https://zhuanlan.zhihu.com/c_1040977220017315840)
-[有道云笔记--GMT](https://note.youdao.com/share/?id=7fb4d5db7dac4127ce461915bc912521&type=notebook#/)
+[简书GMT制图专题](https://www.jianshu.com/c/1cc3a57914f9)  
+[知乎专栏--GMT绘图经验](https://zhuanlan.zhihu.com/c_1040977220017315840)  
+[有道云笔记--GMT](https://note.youdao.com/share/?id=7fb4d5db7dac4127ce461915bc912521&type=notebook#/)  
 
