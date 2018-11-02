@@ -1,5 +1,5 @@
 gravity of South China Sea  
-<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gravity.png" width="200">   
+<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gravity.png" width="400">   
 ---
 
 数据来源：WGM2012重力模型的布格重力异常  
