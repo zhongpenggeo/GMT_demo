@@ -1,4 +1,4 @@
-gravity of South China Sea  
+#### gravity of South China Sea  
 
 <img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gravity.png" width="400">   
 ---
