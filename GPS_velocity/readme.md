@@ -1,5 +1,5 @@
 ### result(GPS velocity):  
-<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gps_velocity.jpg" width=500">
+<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gps_velocity.jpg" width="500">
 ---                                                                                                       
 #### 使用方法
 1. topo.sh是用来绘制地形图的，
