@@ -1,3 +1,6 @@
+### profile
+<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/track_proifile.jpg" width="400">  
+---
 本文主要是从2D平面图中提取剖面  
 主要命令有：  
 1. project设置测线
