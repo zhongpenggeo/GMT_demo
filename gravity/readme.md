@@ -1,5 +1,6 @@
 gravity of South China Sea  
-![gravity](../GMT_picture/gravity.png)
+![gravity](https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gravity.png=250x250)   
+---
 
 数据来源：WGM2012重力模型的布格重力异常  
 这里主要grdgradient的应用，让2D数据出现3D的立体感  
