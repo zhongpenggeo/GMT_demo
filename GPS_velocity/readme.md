@@ -1,5 +1,6 @@
-result(GPS velocity):  
-![gps_velocity](../GMT_picture/gps_velocity.jpg)
+### result(GPS velocity):  
+<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/gps_velocity.jpg" width=500">
+---                                                                                                       
 #### 使用方法
 1. topo.sh是用来绘制地形图的，
 2. GPS\_velo.sh是添加GPS速度矢量到原来的地形图上，由于速度矢量可能需要多次调整参数，所以需要运行多次，故把绘制地形图部分单独写成一个脚本，这样修改速度参数时就不需要重新绘制地形图了
