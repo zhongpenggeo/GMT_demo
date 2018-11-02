@@ -1,7 +1,7 @@
 ### 2D topography
-<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/topo2D.jpg" width="400">  
+<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/topo2D.jpg" width="400"> 
 ### 3D topography  
-<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/topo3D.jpg" width="400">  
+<img src="https://github.com/zhongpenggeo/GMT_demo/blob/master/GMT_picture/topo3D.jpg" width="400"> 
 ---
 
 #### 目录说明
