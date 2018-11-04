@@ -13,7 +13,7 @@ ILLU=tmp.i
 #gmt nearneighbor -I1m -S5m -V $FI -G$GRD -$RR
 #gmt grdgradient $GRD -A45 -Nt -G$ILLU 
 #gmt psxy -$JJ -$RR -T -K >$PS
-gmt grdconvert $GRD1=gd  $GRD=nf -N  -V 
+gmt grdconvert $GRD1  $GRD -N  -V 
 gmt grdimage $GRD -$JJ -$RR  -C$CPT -B1 -BNWes  -P >$PS 
 #gawk '{print $1,$2}' $DAT|gmt psxy -$JJ -$RR -B5 -BWnSe -W2p,red -K -O >>$PS
 #gmt grdtrack $DAT -G$GRD|gawk '{print $3,$4}' >$PRO_DAT
