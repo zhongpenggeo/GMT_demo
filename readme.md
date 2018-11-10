@@ -8,6 +8,5 @@
 2. 其他文件夹可以从名字推测其运行结果，也可以进去相应文件夹查看readme.md
 
 [简书GMT制图专题](https://www.jianshu.com/c/1cc3a57914f9)  
-[知乎专栏--GMT绘图经验](https://zhuanlan.zhihu.com/c_1040977220017315840)  
 [有道云笔记--GMT](https://note.youdao.com/share/?id=7fb4d5db7dac4127ce461915bc912521&type=notebook#/)  
 
