@@ -3,14 +3,14 @@ JJ=JM5i
 RRsub=R60/140/4/60
 DD=D70/110/15/45
 JJsub=JM1.5i
-PS=topo.ps
+PS=topo_ps.ps
 CPT=etopo1.cpt
 GRD=Tibet_topo.grd
 RANGE=-550/380/20
 ILLU=topo.i
 
-gmt grdgradient $GRD -A135 -Nt -G$ILLU
-gmt grdimage $GRD -$RR -I$ILLU -Ba10f5g10 -BNWse -$JJ -C$CPT  -K -V -P >$PS
+#gmt grdgradient $GRD -A135 -Nt -G$ILLU
+gmt grdimage $GRD -$RR -Ba10f5g10 -BNWse -$JJ -C$CPT  -K -V -P >$PS
 #gmt grdcontour $GRD -$JJ -C100  -S4  -W0.25p,gray20  -V -K  -O >>$PS
 #gmt pscoast -$RR -$JJ -Ba10f5g5 -BNWse -N1/0.5p,black -W1/0.5p,black -K -O >>$PS
 # insert map
