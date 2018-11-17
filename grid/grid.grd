@@ -1,0 +1,9 @@
+ncols 3
+nrows 3
+xllcenter 1
+yllcenter 1
+cellsize 1
+nodata_value -9999
+1	2	4
+1	2	4
+1	2	4
